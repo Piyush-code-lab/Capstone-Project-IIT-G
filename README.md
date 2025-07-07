@@ -139,7 +139,7 @@ Final Output: final\_price ∈ \[min\_price, max\_price]
 | File Name                   | Description                                |
 | --------------------------- | ------------------------------------------ |
 | Sample\_Notebook.ipynb      | Base model development notebook            |
-| parking\_stream.csv         | Sample CSV used for simulation             |
+| dataset.csv         | Sample CSV used for simulation             |
 | README.md                   | Project documentation                      |
 
 ---
